@@ -1,11 +1,3 @@
-# Your project title
+# Project Unity from day 0
 
-A short description.
-
-## Technical setup instructions
-
-Some special setup requirements. 
-
-## Special controls 
-
-or other technical need to know things that are crucial to successfully operate/navigate the experience
+Template: https://drive.google.com/file/d/1HNJtNsa_wjjzgOLkc-UhzeC7f3KgpTTn/view
